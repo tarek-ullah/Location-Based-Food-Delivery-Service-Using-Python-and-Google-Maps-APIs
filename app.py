@@ -1,6 +1,6 @@
 #Author : H. M. Tarek Ullah
 #Backend (console app) of Location based food delivery service using 
-# Google Map APIs and raw Python 2.7 
+#Google Maps APIs and raw Python 2.7 
 
 
 import requests,josn
