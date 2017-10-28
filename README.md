@@ -1,2 +1,2 @@
-# Location-Based-Food-Delivery-Service-in-Python-and-Google-Maps-APIs
+# Location-Based-Food-Delivery-Service-Using-Python-and-Google-Maps-APIs
 Implementation of Location based food delivery service using Python 2.7 and Google Maps APIs.It suggests restaurants to users based on their location and choice of cuisine. Moreover it shows delivery time , distance of user from selected restaurant in km and also draws a shortest path in google Map using travelling salesman problem under the hood.
